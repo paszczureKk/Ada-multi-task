@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>C:\GNAT\projects\Ada multi-task\ada_multi_task.gpr</vfs_file>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\projects\Ada multi-task\ada_multi_task.gpr</vfs_project>
+      <vfs_file>C:\GNAT\projects\Ada multi-task\src\symulacja.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

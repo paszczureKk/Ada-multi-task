@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__symulacja.o
+[PROJECT FILES]
+C:\GNAT\projects\Ada multi-task\ada_multi_task.gpr
+20191019192656
+[BOUND OBJECT FILES]
+C:\GNAT\projects\Ada multi-task\obj\symulacja.o
+[GENERATED SOURCE FILES]
+b__symulacja.ads
+b__symulacja.adb
+b__symulacja.ali
+[RESULTING OPTIONS]
+-LC:\GNAT\projects\Ada multi-task\obj\
+-LC:\GNAT\projects\Ada multi-task\obj\
+-LC:/gnat/2019/lib/gcc/x86_64-pc-mingw32/8.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2019/lib/gcc/x86_64-pc-mingw32/8.3.1/adalib/libgnarl.a
+C:/gnat/2019/lib/gcc/x86_64-pc-mingw32/8.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
